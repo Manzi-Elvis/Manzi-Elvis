@@ -1,9 +1,3 @@
-<div id="header" align="center">
-  <img src="https://i.pinimg.com/736x/96/3a/86/963a866f900df61b6778417067108fe3.jpg" width="100" border-radius = "50px";  />
-</div>
-
-
-
 # Hi there, I'm Elvis 👋  
 
  **Technologist | Software Engineer | Builder of Cool Things**  
