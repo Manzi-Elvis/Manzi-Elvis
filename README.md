@@ -46,7 +46,7 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="firebase" alt="firebase" width="30" height="30"/>&nbsp;
 
 ### Microservices:
-
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka" />
 
 
 
