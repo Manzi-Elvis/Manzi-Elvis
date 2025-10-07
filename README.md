@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenU5bmIxYWpoY2RjMHFzcndyYXJzaDlsdDBvaXN4ZmFjNTZ6YzR6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/LMin03FogoLaTJ7lcg/giphy.gif" width="30%"/>
+</div>
+
 # Hi there, I'm Elvis 👋  
 
  **Technologist | Software Engineer | Builder of Cool Things**  
@@ -46,7 +50,7 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" title="firebase" alt="firebase" width="30" height="30"/>&nbsp;
 
 ### Microservices:
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,eureka,aws" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,kafka,aws" />
 
 
 
