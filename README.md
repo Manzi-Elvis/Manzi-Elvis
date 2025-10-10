@@ -55,8 +55,6 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 
 
 ---
-### AI:
-<img src="https://skillicons.dev/icons?i=tensorflow,numpy" />
 
 ##  My   Stats:
 
