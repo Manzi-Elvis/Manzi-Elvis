@@ -59,6 +59,6 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 ##  My   Stats:
 
 ![Manzi-Elvis's Stats](https://github-readme-stats.vercel.app/api?username=Manzi-Elvis&theme=gotham&show_icons=true&hide_border=true&count_private=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Manzi-Elvis&theme=gotham&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Manzi-Elvis&theme=gotham)](https://git.io/streak-stats)
 
 
