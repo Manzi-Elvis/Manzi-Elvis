@@ -57,8 +57,13 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 ---
 
 ##  My   Stats:
+![](https://github-readme-stats.vercel.app/api?username=Manzi-Elvis&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Manzi-Elvis&theme=gotham&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manzi-Elvis&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-![Manzi-Elvis's Stats](https://github-readme-stats.vercel.app/api?username=Manzi-Elvis&theme=gotham&show_icons=true&hide_border=true&count_private=true)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Manzi-Elvis&theme=gotham&hide_border=true)](https://git.io/streak-stats)
+###  Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
