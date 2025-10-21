@@ -37,6 +37,7 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original-wordmark.svg" title="nestjs" alt="nestjs" width="30" height="30"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="30" height="30"/>&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Rust.svg" title="rust" alt="rust" width="30" height="30"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="rust" alt="rust" width="30" height="30"/>&nbsp;
 
 
 
