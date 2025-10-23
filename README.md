@@ -2,7 +2,7 @@
 
 ##  My Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Manzi-Elvis&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Manzi-Elvis&theme=gotham&hide_border=true)<br/>
+[![](https://github-readme-streak-stats.herokuapp.com?user=Manzi-Elvis&theme=gotham&hide_border=true)](https://git.io/streak-stats)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manzi-Elvis&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
