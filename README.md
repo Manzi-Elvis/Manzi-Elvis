@@ -1,9 +1,9 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Hey%F0%9F%91%8B%2C+I'm+Elvis;A+software+engineer)](https://git.io/typing-svg)  
 
 ##  My Stats:
-![](https://github-readme-stats.vercel.app/api?username=Manzi-Elvis&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
-[![](https://github-readme-streak-stats.herokuapp.com?user=Manzi-Elvis&theme=gotham&hide_border=true)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manzi-Elvis&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manzi-Elvis&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com?user=Manzi-Elvis&theme=gotham&hide_border=true)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manzi-Elvis&theme=gotham&hide_border=true)
 
 
 <div align="center">
