@@ -6,7 +6,7 @@
 <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" />&nbsp;
 <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" />&nbsp;
 <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />&nbsp;
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="60" height="60" />&nbsp;
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />&nbsp;
 
 ### Backend:
 <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />&nbsp;
