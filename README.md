@@ -29,9 +29,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 
 ##  My Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manzi-Elvis&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manzi-Elvis&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com?user=Manzi-Elvis&theme=gotham&hide_border=true)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manzi-Elvis&theme=gotham&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manzi-Elvis&theme=gotham&hide_border=fasle)<br/>
+![](https://github-readme-activity-graph.vercel.app/graph?username=Manzi-Elvis&theme=gotham&hide_border=false)
 
 
 <div align="center">
