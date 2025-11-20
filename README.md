@@ -35,7 +35,7 @@
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Manzi-Elvis&theme=gotham&hide_border=false)
 
 
-<div align="center">
+<div>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenU5bmIxYWpoY2RjMHFzcndyYXJzaDlsdDBvaXN4ZmFjNTZ6YzR6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/LMin03FogoLaTJ7lcg/giphy.gif" width="30%"/>
 </div>
 
