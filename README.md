@@ -31,9 +31,7 @@
 ##  My Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manzi-Elvis&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com?user=Manzi-Elvis&theme=gotham&hide_border=true)<br/>
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Manzi-Elvis&theme=gotham&hide_border=fasle)<br/>
-![](https://github-readme-activity-graph.vercel.app/graph?username=Manzi-Elvis&theme=gotham&hide_border=false)
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/melvis?theme=dark&font=Noto%20Sans%20Batak)
 
 <div align = 'center'>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenU5bmIxYWpoY2RjMHFzcndyYXJzaDlsdDBvaXN4ZmFjNTZ6YzR6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/LMin03FogoLaTJ7lcg/giphy.gif" width="30%"/>
