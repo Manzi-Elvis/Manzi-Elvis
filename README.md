@@ -37,6 +37,6 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/melvis?theme=dark&font=Noto%20Sans%20Batak)
 
 <div align = 'center'>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenU5bmIxYWpoY2RjMHFzcndyYXJzaDlsdDBvaXN4ZmFjNTZ6YzR6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/LMin03FogoLaTJ7lg/giphy.gif" width="30%"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenU5bmIxYWpoY2RjMHFzcndyYXJzaDlsdDBvaXN4ZmFjNTZ6YzR6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/LMin03FogoLaTJ7clg/giphy.gif" width="30%"/>
 </div>
 
