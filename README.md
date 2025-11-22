@@ -18,6 +18,7 @@
  <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />&nbsp;
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />&nbsp;
  <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />&nbsp;
+<img src="https://skillicons.dev/icons?i=appwrite" width="45" height="45" alt="appwrite" />&nbsp;
 
 ### Other Languages:
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="52" height="52" />&nbsp;
