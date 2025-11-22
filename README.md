@@ -8,7 +8,7 @@
 <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwindcss" />&nbsp;
 <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />&nbsp;
 <img src="https://skillicons.dev/icons?i=jquery" width="45" height="45" alt="jquery" />&nbsp;
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="55" height="55" />&nbsp;
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />&nbsp;
 
 ### Backend:
 <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />&nbsp;
