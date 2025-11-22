@@ -1,5 +1,5 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Hey%F0%9F%91%8B%2C+I'm+Elvis;A+software+engineer)](https://git.io/typing-svg)  
-## Recipe:
+## Teck skills:
 ### Frontend:
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />&nbsp;
 <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />&nbsp;
