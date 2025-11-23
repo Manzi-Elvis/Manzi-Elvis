@@ -17,18 +17,22 @@
 ### Database: 
  <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />&nbsp;
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />&nbsp;
- <img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL" />&nbsp;
-<img src="https://skillicons.dev/icons?i=supabase" width="45" height="45" alt="supabase" />
+ <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" width="45" height="45" alt="supabase" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/appwrite/appwrite-original.svg" width="45" height="45" alt="supabase" />
 
 ### Other Languages:
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="52" height="52" />&nbsp;
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="52" height="52" />&nbsp;
 <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="52" height="52" />
 
-### Tools:
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>&nbsp;
+### Security: 
 <img src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-original.svg" alt="Kali Linux" width="40" height="40"/>&nbsp;
 <img src="https://portswigger.net/content/images/logos/burpsuite-twittercard.png" alt="Kali Linux" width="65" height="65"/>&nbsp;
+
+
+### Tools:
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
