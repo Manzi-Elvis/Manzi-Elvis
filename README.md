@@ -13,7 +13,7 @@
 
 ### Backend:
 <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />&nbsp;
-<img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />&nbsp;
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" title="express" alt="express" width="45" height="45"/>&nbsp;
 
 ### Database: 
  <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />&nbsp;
