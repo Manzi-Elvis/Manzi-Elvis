@@ -28,6 +28,8 @@
 
 ### Tools:
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-original.svg" alt="Kali Linux" width="40" height="40"/>&nbsp;
+<img src="https://portswigger.net/content/images/logos/burpsuite-twittercard.png" alt="Kali Linux" width="65" height="65"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
