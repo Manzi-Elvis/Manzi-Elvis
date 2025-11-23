@@ -12,7 +12,7 @@
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />&nbsp;
 
 ### Backend:
-<img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Node.js" />&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" title="express" alt="express" width="45" height="45"/>&nbsp;
 
 ### Database: 
