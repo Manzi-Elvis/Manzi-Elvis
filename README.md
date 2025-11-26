@@ -38,7 +38,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
 
 ##  My Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manzi-Elvis&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manzi-Elvis&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api?username=Manzi-Elvis&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Manzi-Elvis&theme=gotham&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manzi-Elvis&theme=gotham&hide_border=true)<br/>
