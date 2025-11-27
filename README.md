@@ -39,7 +39,6 @@
 
 ##  My Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manzi-Elvis&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=Manzi-Elvis&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Manzi-Elvis&theme=gotham&hide_border=true)<br/>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/melvis?theme=dark&font=Noto%20Sans%20Batak)
 
