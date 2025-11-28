@@ -17,8 +17,8 @@
  <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />&nbsp;
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" width="45" height="45" alt="supabase" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/appwrite/appwrite-original.svg" width="45" height="45" alt="supabase" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" width="45" height="45" alt="Supabase" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/appwrite/appwrite-original.svg" width="45" height="45" alt="Appwrite" />
 
 ### Other Languages:
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="52" height="52" />&nbsp;
