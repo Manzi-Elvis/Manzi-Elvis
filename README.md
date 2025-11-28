@@ -1,7 +1,7 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Hey%F0%9F%91%8B%2C+I'm+Elvis;A+software+engineer)](https://git.io/typing-svg)  
 ## Teck skills:
 ### Frontend:
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="55" height="55" />&nbsp;
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="55" height="55" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js" />&nbsp;
 <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" />&nbsp;
 <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" />&nbsp;
