@@ -19,7 +19,7 @@
 <h1 align="center">Knowledge matrix</h1>
 
 <details>
-<summary><h2>Frontend</h2></summary>
+<summary>Frontend</summary>
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React js" width="55" height="55" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next js" />&nbsp;
 <img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" />&nbsp;
