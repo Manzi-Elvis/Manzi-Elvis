@@ -37,7 +37,7 @@
 </details>
 
 <details>
-<summary><h2>Database</h2></summary>
+<summary><b>Database</b>/summary>
  <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />&nbsp;
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />&nbsp;
