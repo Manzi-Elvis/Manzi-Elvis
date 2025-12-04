@@ -31,7 +31,7 @@
 </details>
 
 <details>
-<summary>Backend</summary>
+<summary><h2>Backend</h2></summary>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Node.js" />&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" title="express" alt="express" width="45" height="45"/>&nbsp;
 </details>
