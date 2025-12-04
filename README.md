@@ -2,6 +2,7 @@
 I'm passionate about creating scalable, secure, and user-friendly software that makes an impact.  
 Currently on a journey to become one of the best technologists in the world by delivering quality software. I believe great technology is built on three pillars: security, scalability, and user experience. Every project I take on is guided by those principles.
 I thrive in environments where I can solve problems, learn fast, and collaborate with people who dream big.
+
 <h1 align="center">Valuable skills</h1>
 <details>
 <summary><b>AI-driven development</b></summary>
@@ -18,7 +19,7 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 
 
 <h1 align="center">Knowledge matrix</h1>
-
+<div style = "display: block; gap: 1; ">
 <details>
 <summary><h2>Frontend</h2></summary>
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React js" width="55" height="55" />&nbsp;
@@ -66,6 +67,7 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
 </details>
+</div>
 
 ##  My Stats:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manzi-Elvis&theme=gotham&hide_border=false&include_all_commits=false)<br/>
