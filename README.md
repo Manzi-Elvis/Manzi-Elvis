@@ -1,5 +1,23 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Hey%F0%9F%91%8B%2C+I'm+Elvis;A+software+engineer)](https://git.io/typing-svg)  
+
+<h1 align="center">Valuable skills</h1>
+<details>
+<summary><b>AI-driven development</b></summary>
+
+> I specialize in leveraging AI to streamline routine processes such as generating commit messages, writing automated
+> tests, producing documentation, and managing code reviews and pull requests.
+</details>
+<details>
+<summary><b>Backend engineering</b></summary>
+
+> While I don’t primarily position myself as a backend engineer, I bring valuable experience in the field, particularly
+> with the MERN stack,. This expertise allows me to contribute effectively to backend
+> development tasks as part of a comprehensive project solution.
+</details>
+
+
 <h1 align="center">Knowledge matrix</h1>
+
 ### Frontend:
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React js" width="55" height="55" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next js" />&nbsp;
