@@ -6,6 +6,7 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 <h1 align="center">Valuable skills</h1>
 <details>
 <summary><b>AI-driven development</b></summary>
+ 
 > I specialize in leveraging AI to streamline routine processes such as generating commit messages, writing automated
 > tests, producing documentation, and managing code reviews and pull requests.
 </details>
