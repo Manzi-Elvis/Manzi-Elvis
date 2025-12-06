@@ -21,7 +21,7 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 
 <h1 align="center">Knowledge matrix</h1>
 <div style="display: flex; flex-direction: column; gap: 5px;">
-<details>
+<details open>
 <summary><h2>Frontend</h2></summary>
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React js" width="55" height="55" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next js" />&nbsp;
