@@ -7,13 +7,21 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 <details>
 <summary><b>System Architecture & Scalability</b></summary>
  
->I design systems that don’t break when real users show up. From microservices to event-driven architectures, I build platforms that scale smoothly, stay reliable under pressure, and remain easy to evolve as the product grows.
+> I design systems that don’t break when real users show up. From microservices to event-driven architectures, I build platforms that scale smoothly, stay reliable under pressure, and remain easy to evolve as the product grows.
 </details>
+
 <details>
 <summary><b>AI-driven development</b></summary>
  
 > I specialize in leveraging AI to streamline routine processes such as generating commit messages, writing automated
 > tests, producing documentation, and managing code reviews and pull requests.
+</details>
+
+<details>
+<summary><b>Security-First Engineering</b></summary>
+ 
+> Every system I build is designed with security at the core — not as an afterthought.
+I actively guard against vulnerabilities like SQL injection, XSS, broken authentication, misconfigurations, insecure APIs, and flawed permission models.
 </details>
 <details>
 <summary><b>Backend engineering</b></summary>
