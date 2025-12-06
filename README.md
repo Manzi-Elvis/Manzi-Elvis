@@ -82,8 +82,8 @@ I actively guard against vulnerabilities like SQL injection, XSS, broken authent
 <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
 </details>
 </div>
-
-##  My Stats:
+ <h1 align="center">My Stats:</h1>
+ 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manzi-Elvis&theme=gotham&hide_border=false&include_all_commits=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Manzi-Elvis&theme=gotham&hide_border=true)<br/>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/melvis?theme=dark&font=Noto%20Sans%20Batak)
