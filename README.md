@@ -33,13 +33,13 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />&nbsp;
 </details>
 
-<details>
+<details open>
 <summary><h2>Backend</h2></summary>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Node.js" />&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" title="express" alt="express" width="45" height="45"/>&nbsp;
 </details>
 
-<details>
+<details open>
 <summary><h2>Database</h2></summary>
  <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />&nbsp;
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />&nbsp;
@@ -48,20 +48,20 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
  <img src="https://github.com/devicons/devicon/blob/master/icons/appwrite/appwrite-original.svg" width="45" height="45" alt="Appwrite" />
 </details>
 
-<details>
+<details open>
 <summary><h2>Other Languages</h2></summary>
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="52" height="52" />&nbsp;
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="52" height="52" />&nbsp;
 <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="52" height="52" />
 </details>
 
-<details>
+<details open>
 <summary><h2>Security</h2></summary> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-original.svg" alt="Kali Linux" width="40" height="40"/>&nbsp;
 <img src="https://portswigger.net/content/images/logos/burpsuite-twittercard.png" alt="Kali Linux" width="65" height="65"/>&nbsp;
 </details>
 
-<details>
+<details open>
 <summary><h2>Tools</h2></summary>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;
