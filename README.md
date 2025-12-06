@@ -5,6 +5,11 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 
 <h1 align="center">Valuable skills</h1>
 <details>
+<summary><b>System Architecture & Scalability</b></summary>
+ 
+>I design systems that don’t break when real users show up. From microservices to event-driven architectures, I build platforms that scale smoothly, stay reliable under pressure, and remain easy to evolve as the product grows.
+</details>
+<details>
 <summary><b>AI-driven development</b></summary>
  
 > I specialize in leveraging AI to streamline routine processes such as generating commit messages, writing automated
