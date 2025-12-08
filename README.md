@@ -27,7 +27,7 @@ I actively guard against vulnerabilities like SQL injection, XSS, broken authent
 <summary><b>Backend engineering</b></summary>
 
 > While I don’t primarily position myself as a backend engineer, I bring valuable experience in the field, particularly
-> with the MERN stack,. This expertise allows me to contribute effectively to backend
+> with the MERN stack. This expertise allows me to contribute effectively to backend
 > development tasks as part of a comprehensive project solution.
 </details>
 
