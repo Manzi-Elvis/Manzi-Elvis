@@ -33,7 +33,7 @@ I actively guard against vulnerabilities like SQL injection, XSS, broken authent
 
 
 <h1 align="center">Knowledge matrix</h1>
-<div style="display: flex; flex-direction: column; gap: 5px;">
+<div>
 <details open>
 <summary><h2>Frontend</h2></summary>
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React js" width="55" height="55" />&nbsp;
