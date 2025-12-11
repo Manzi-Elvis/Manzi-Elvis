@@ -34,6 +34,17 @@ I actively guard against vulnerabilities like SQL injection, XSS, broken authent
 
 <h1 align="center">Knowledge matrix</h1>
 <div>
+
+<details open>
+<summary><h2>Languages</h2></summary>
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />&nbsp;
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />&nbsp;
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="52" height="52" />&nbsp;
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="52" height="52" />&nbsp;
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="52" height="52" />
+</details>
+
+ 
 <details open>
 <summary><h2>Frontend</h2></summary>
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React js" width="55" height="55" />&nbsp;
@@ -44,7 +55,6 @@ I actively guard against vulnerabilities like SQL injection, XSS, broken authent
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="Sass" width="45" height="45"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" width="45" height="45" alt="jquery" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/reactnative/reactnative-original-wordmark.svg" width="45" height="45" alt="React Native" />&nbsp;
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />&nbsp;
 </details>
 
 <details open>
@@ -61,13 +71,6 @@ I actively guard against vulnerabilities like SQL injection, XSS, broken authent
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" width="45" height="45" alt="Supabase" />
  <img src="https://github.com/devicons/devicon/blob/master/icons/appwrite/appwrite-original.svg" width="45" height="45" alt="Appwrite" />
-</details>
-
-<details open>
-<summary><h2>Other Languages</h2></summary>
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="52" height="52" />&nbsp;
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="52" height="52" />&nbsp;
-<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="52" height="52" />
 </details>
 
 <details open>
