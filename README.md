@@ -43,6 +43,7 @@ I actively guard against vulnerabilities like SQL injection, XSS, broken authent
 <img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="Sass" width="45" height="45"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" width="45" height="45" alt="jquery" />&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/reactnative/reactnative-original-wordmark.svg" width="45" height="45" alt="React Native" />&nbsp;
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />&nbsp;
 </details>
 
