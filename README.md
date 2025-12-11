@@ -37,8 +37,8 @@ I actively guard against vulnerabilities like SQL injection, XSS, broken authent
 
 <details open>
 <summary><h2>Languages</h2></summary>
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />&nbsp;
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />&nbsp;
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="52" height="52" />&nbsp;
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="52" height="52" />&nbsp;
 <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="52" height="52" />&nbsp;
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="52" height="52" />&nbsp;
 <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="52" height="52" />
