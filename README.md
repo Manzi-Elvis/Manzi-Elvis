@@ -90,6 +90,8 @@ I actively guard against vulnerabilities like SQL injection, XSS, broken authent
 </div>
  <h1 align="center">My Stats:</h1>
  
+ [![committers.top badge](https://user-badge.committers.top/rwanda_public/Manzi-Elvis.svg)](https://user-badge.committers.top/rwanda_public/Manzi-Elvis)
+ 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manzi-Elvis&theme=gotham&hide_border=false&include_all_commits=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Manzi-Elvis&theme=gotham&hide_border=true)<br/>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/melvis?theme=dark&font=Noto%20Sans%20Batak)
