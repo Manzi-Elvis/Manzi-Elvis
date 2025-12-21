@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Hey%F0%9F%91%8B%2C+I'm+Elvis;A+software+engineer)](https://git.io/typing-svg)  
-I'm passionate about creating scalable, secure, and user-friendly software that makes an impact.  
+I build fast, secure, production-grade software that makes an impact.  
 Currently on a journey to become one of the best technologists in the world by delivering quality software. I believe great technology is built on three pillars: security, scalability, and user experience. Every project I take on is guided by those principles.
 I thrive in environments where I can solve problems, learn fast, and collaborate with people who dream big.
 
