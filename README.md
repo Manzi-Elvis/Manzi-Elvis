@@ -94,21 +94,21 @@ I actively guard against vulnerabilities like SQL injection, XSS, broken authent
 
  <table>
 <tr>
-<td width="33%" valign="top">
+<td width="30%" valign="top">
 
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manzi-Elvis&theme=gotham&hide_border=false&include_all_commits=false" width="100%"/>
 </div>
 
 </td>
-<td width="33%" valign="top">
+<td width="40%" valign="center">
 
 <div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Manzi-Elvis&theme=gotham&hide_border=true" width="100%"/>
 </div>
 
 </td>
-<td width="33%" valign="top">
+<td width="35%" valign="center">
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/melvis?theme=dark&font=Noto%20Sans%20Batak" width="100%"/>
