@@ -91,10 +91,33 @@ I actively guard against vulnerabilities like SQL injection, XSS, broken authent
  <h1 align="center">My Stats:</h1>
  
  [![committers.top badge](https://user-badge.committers.top/rwanda_public/Manzi-Elvis.svg)](https://user-badge.committers.top/rwanda_public/Manzi-Elvis)
- 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manzi-Elvis&theme=gotham&hide_border=false&include_all_commits=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Manzi-Elvis&theme=gotham&hide_border=true)<br/>
-![LeetCode Stats](https://leetcard.jacoblin.cool/melvis?theme=dark&font=Noto%20Sans%20Batak)
+
+ <table>
+<tr>
+<td width="33%" valign="top">
+
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manzi-Elvis&theme=gotham&hide_border=false&include_all_commits=false" width="100%"/>
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Manzi-Elvis&theme=gotham&hide_border=true" width="100%"/>
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/melvis?theme=dark&font=Noto%20Sans%20Batak" width="100%"/>
+</div>
+
+</td>
+</tr>
+</table>
+
 
 <div align = 'center'>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenU5bmIxYWpoY2RjMHFzcndyYXJzaDlsdDBvaXN4ZmFjNTZ6YzR6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/LMin03FogoLaTJ7lcg/giphy.gif" width="30%"/>
