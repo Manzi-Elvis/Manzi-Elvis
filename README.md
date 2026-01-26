@@ -89,8 +89,8 @@ I actively guard against vulnerabilities like SQL injection, XSS, broken authent
 </details>
 </div>
  <h1 align="center">My Stats:</h1>
- 
- [![committers.top badge](https://user-badge.committers.top/rwanda_public/Manzi-Elvis.svg)](https://user-badge.committers.top/rwanda_public/Manzi-Elvis)
+
+ [![committers.top badge](https://user-badge.committers.top/rwanda/Manzi-Elvis.svg)](https://user-badge.committers.top/rwanda/Manzi-Elvis)
 
  <table>
 <tr>
