@@ -26,8 +26,8 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 <details>
 <summary><b>Backend engineering</b></summary>
 
->I am passionate about building secure, scalable, and high-performance systems. I focus on designing efficient APIs,
->optimizing databases, and creating robust architectures that power seamless user experiences. Always learning, always building.
+> I am passionate about building secure, scalable, and high-performance systems. I focus on designing efficient APIs,
+> optimizing databases, and creating robust architectures that power seamless user experiences. Always learning, always building.
 </details>
 
 
