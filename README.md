@@ -21,14 +21,13 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 <summary><b>Security-First Engineering</b></summary>
  
 > Every system I build is designed with security at the core — not as an afterthought.
-I actively guard against vulnerabilities like SQL injection, XSS, broken authentication, misconfigurations, insecure APIs, and flawed permission models.
+> I actively guard against vulnerabilities like SQL injection, XSS, broken authentication, misconfigurations, insecure APIs, and flawed permission models.
 </details>
 <details>
 <summary><b>Backend engineering</b></summary>
 
-> While I don’t primarily position myself as a backend engineer, I bring valuable experience in the field, particularly
-> with the MERN stack. This expertise allows me to contribute effectively to backend
-> development tasks as part of a comprehensive project solution.
+>I am passionate about building secure, scalable, and high-performance systems. I focus on designing efficient APIs,
+>optimizing databases, and creating robust architectures that power seamless user experiences. Always learning, always building.
 </details>
 
 
