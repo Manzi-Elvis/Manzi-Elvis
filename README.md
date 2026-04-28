@@ -103,7 +103,7 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 <td width="40%" valign="center">
 
 <div align="center">
-  <img src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Manzi-Elvis&theme=gotham&hide_border=true" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Manzi-Elvis&theme=gotham&hide_border=true" width="100%"/>
 </div>
 
 </td>
