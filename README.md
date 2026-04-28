@@ -34,7 +34,7 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 <h1 align="center">Knowledge matrix</h1>
 <div>
 
-<details open>
+<details>
 <summary><h2>Languages</h2></summary>
 <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="52" height="52" />&nbsp;
 <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="52" height="52" />&nbsp;
@@ -45,7 +45,7 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 </details>
 
  
-<details open>
+<details>
 <summary><h2>Frontend</h2></summary>
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React js" width="55" height="55" />&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next js" />&nbsp;
@@ -57,14 +57,14 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 <img src="https://github.com/devicons/devicon/blob/master/icons/reactnative/reactnative-original-wordmark.svg" width="45" height="45" alt="React Native" />&nbsp;
 </details>
 
-<details open>
+<details>
 <summary><h2>Backend</h2></summary>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Node.js" />&nbsp;
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" title="express" alt="express" width="45" height="45"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="express" alt="express" width="45" height="45"/>&nbsp;
 </details>
 
-<details open>
+<details>
 <summary><h2>Database</h2></summary>
  <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />&nbsp;
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />&nbsp;
@@ -73,13 +73,13 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
  <img src="https://github.com/devicons/devicon/blob/master/icons/appwrite/appwrite-original.svg" width="45" height="45" alt="Appwrite" />
 </details>
 
-<details open>
+<details>
 <summary><h2>Security</h2></summary> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-original.svg" alt="Kali Linux" width="40" height="40"/>&nbsp;
 <img src="https://portswigger.net/content/images/logos/burpsuite-twittercard.png" alt="Kali Linux" width="65" height="65"/>&nbsp;
 </details>
 
-<details open>
+<details>
 <summary><h2>Tools</h2></summary>
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>&nbsp;
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;
@@ -103,7 +103,7 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 <td width="40%" valign="center">
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Manzi-Elvis&theme=gotham&hide_border=true" width="100%"/>
+  <img src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Manzi-Elvis&theme=gotham&hide_border=true" width="100%"/>
 </div>
 
 </td>
