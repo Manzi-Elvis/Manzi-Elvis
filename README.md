@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&width=435&lines=Hey%F0%9F%91%8B%2C+I'm+Elvis;A+software+engineer)](https://git.io/typing-svg)  
+<img src="./assets/intro.svg" alt="intro" />
+
 I build fast, secure, production-grade software that makes an impact.  
 Currently on a journey to become one of the best technologists in the world by delivering quality software. I believe great technology is built on three pillars: security, scalability, and user experience. Every project I take on is guided by those principles.
 I thrive in environments where I can solve problems, learn fast, and collaborate with people who dream big.
@@ -45,46 +46,46 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 </details>
 
  
-<details>
-<summary><h2>Frontend</h2></summary>
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React js" width="55" height="55" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next js" />&nbsp;
-<img src="https://skillicons.dev/icons?i=css" width="45" height="45" alt="css" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="TailwindCSS" />&nbsp;
-<img src="https://skillicons.dev/icons?i=bootstrap" width="45" height="45" alt="Bootstrap" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass" alt="Sass" width="45" height="45"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-plain-wordmark.svg" width="45" height="45" alt="jquery" />&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/reactnative/reactnative-original-wordmark.svg" width="45" height="45" alt="React Native" />&nbsp;
+<details open>
+  <summary><h2>Frontend</h2></summary>
+  <img src="./assets/react-icon.svg" alt="React js" width="55" height="55" />&nbsp;
+  <img src="./assets/nextjs-icon.svg" width="45" height="45" alt="Next js" />&nbsp;
+  <img src="./assets/css-icon.svg" width="45" height="45" alt="css" />&nbsp;
+  <img src="./assets/tailwindcss-icon.svg" width="45" height="45" alt="TailwindCSS" />&nbsp;
+  <img src="./assets/bootstrap-icon.svg" width="45" height="45" alt="Bootstrap" />&nbsp;
+  <img src="./assets/sass-icon.svg" title="sass" alt="Sass" width="45" height="45"/>&nbsp;
+  <img src="./assets/jquery-icon.svg" width="45" height="45" alt="jquery" />&nbsp;
+  <img src="./assets/reactnative-icon.svg" width="45" height="45" alt="React Native" />&nbsp;
 </details>
 
-<details>
-<summary><h2>Backend</h2></summary>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="50" height="50" alt="Node.js" />&nbsp;
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/ExpressJS-Light.svg" title="express" alt="express" width="45" height="45"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="express" alt="express" width="45" height="45"/>&nbsp;
+<details open>
+  <summary><h2>Backend</h2></summary>
+  <img src="./assets/nestjs-icon.svg" title="NestJS" alt="NestJS" width="45" height="45"/>&nbsp;
+  <img src="./assets/nodejs-icon.svg" width="50" height="50" alt="Node.js" />&nbsp;
+  <img src="./assets/expressJS-icon.svg" title="express" alt="express" width="45" height="45"/>&nbsp;
 </details>
 
 <details>
 <summary><h2>Database</h2></summary>
- <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />&nbsp;
- <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" width="45" height="45" alt="Supabase" />
- <img src="https://github.com/devicons/devicon/blob/master/icons/appwrite/appwrite-original.svg" width="45" height="45" alt="Appwrite" />
+ <img src="" width="45" height="45" alt="MongoDB" />&nbsp;
+ <img src="" alt="MySQL" width="55" height="55" />&nbsp;
+ <img src="" width="45" height="45" alt="PostgreSQL" />&nbsp;
+ <img src="" width="45" height="45" alt="Supabase" />
+ <img src="" width="45" height="45" alt="Appwrite" />
 </details>
 
 <details>
 <summary><h2>Security</h2></summary> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/kalilinux/kalilinux-original.svg" alt="Kali Linux" width="40" height="40"/>&nbsp;
-<img src="https://portswigger.net/content/images/logos/burpsuite-twittercard.png" alt="Kali Linux" width="65" height="65"/>&nbsp;
+<img src="" width="40" height="40"/>&nbsp;
+<img src="" alt="Kali Linux" width="65" height="65"/>&nbsp;
 </details>
 
 <details>
 <summary><h2>Tools</h2></summary>
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" alt="Blender" width="40" height="40"/>
+<img src="" alt="postman" width="40" height="40"/>&nbsp;
+<img src="" alt="git" width="40" height="40"/>&nbsp;
+<img src="" alt="figma" width="40" height="40"/>&nbsp;
+<img src="" alt="Blender" width="40" height="40"/>
 </details>
 </div>
  <h1 align="center">My Stats:</h1>
@@ -119,5 +120,5 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 
 
 <div align = 'center'>
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExenU5bmIxYWpoY2RjMHFzcndyYXJzaDlsdDBvaXN4ZmFjNTZ6YzR6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/LMin03FogoLaTJ7lcg/giphy.gif" width="30%"/>
+  <img src="" width="30%"/>
 </div>
