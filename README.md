@@ -56,15 +56,15 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 
   <details open>
     <summary><h2>Backend</h2></summary>
-    <img src="./assets/nestjs-icon.svg" title="NestJS" alt="NestJS" width="45" height="45"/>&nbsp;
+    <img src="./assets/nestjs-icon.svg" title="NestJS" width="45" height="45"/>&nbsp;
     <img src="./assets/nodejs-icon.svg" width="50" height="50" alt="Node.js" />&nbsp;
-    <img src="./assets/expressJS-icon.svg" title="express" alt="express" width="45" height="45"/>&nbsp;
+    <img src="./assets/expressJS-icon.svg" alt="express" width="45" height="45"/>&nbsp;
   </details>
 
   <details open>
     <summary><h2>Database</h2></summary>
     <img src="./assets/mongodb-icon.svg" width="45" height="45" alt="MongoDB" />&nbsp;
-    <img src="./assets/mysql-icon.svg" width="55" height="55" alt="MySQL" />&nbsp;
+    <img src="./assets/mysql-icon.svg" width="45" height="45" alt="MySQL" />&nbsp;
     <img src="./assets/postgresql-icon.svg" width="45" height="45" alt="PostgreSQL" />&nbsp;
     <img src="./assets/supabase-icon.svg" width="45" height="45" alt="Supabase" />&nbsp;
     <img src="./assets/appwrite-icon.svg" width="45" height="45" alt="Appwrite" />
