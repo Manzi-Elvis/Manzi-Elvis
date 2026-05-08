@@ -79,7 +79,7 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
   <details open>
     <summary><h2>Tools</h2></summary>
     <img src="./assets/postman-icon.svg" alt="postman" width="40" height="40"/>&nbsp;
-    <img src="./assets/git-icon.svg" alt="git" width="60" height="60"/>&nbsp;
+    <img src="./assets/git-icon.svg" alt="git" width="80" height="80"/>&nbsp;
     <img src="./assets/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;
     <img src="./assets/blender-icon.svg" alt="Blender" width="40" height="40"/>
   </details>
