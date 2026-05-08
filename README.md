@@ -1,7 +1,6 @@
 <img src="./assets/intro.svg" alt="intro" />
 
-I build fast, secure, production-grade software that makes an impact.  
-Currently on a journey to become one of the best technologists in the world by delivering quality software. I believe great technology is built on three pillars: security, scalability, and user experience. Every project I take on is guided by those principles.
+I build fast, secure, production-grade software that makes an impact. Currently on a journey to become one of the best technologists in the world by delivering quality software. I believe great technology is built on three pillars: security, scalability, and user experience. Every project I take on is guided by those principles.
 I thrive in environments where I can solve problems, learn fast, and collaborate with people who dream big.
 
 <h1 align="center">Valuable skills</h1>
@@ -33,14 +32,14 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 
 
 <h1 align="center">Knowledge matrix</h1>
-  <details>
+  <details open>
     <summary><h2>Languages</h2></summary>
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="52" height="52" />&nbsp;
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="52" height="52" />&nbsp;
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="52" height="52" />&nbsp;
-      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="52" height="52" />&nbsp;
-      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="52" height="52" />&nbsp;
-      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="52" height="52" />
+      <img src="./assets/js-icon.svg" alt="icon" width="52" height="52" />&nbsp;
+      <img src="./assets/ts-icon.svg" alt="TypeScript" width="52" height="52" />&nbsp;
+      <img src="./assets/python-icon.svg" alt="icon" width="52" height="52" />&nbsp;
+      <img src="./assets/java-icon.svg" alt="icon" width="52" height="52" />&nbsp;
+      <img src="./assets/cpp-icon.svg" alt="icon" width="52" height="52" />&nbsp;
+      <img src="./assets/csharp-icon.svg" alt="icon" width="52" height="52" />
   </details>
 
   <details open>
@@ -105,4 +104,4 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
   </tr>
 </table>
 
-<img align="center" src="./assets/litcode.webp" width="30%"/>
+<div align="center" ><img src="./assets/litcode.webp" width="30%"/></div>
