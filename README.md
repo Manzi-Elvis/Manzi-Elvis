@@ -34,91 +34,86 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 
 <h1 align="center">Knowledge matrix</h1>
 <div>
+  <details>
+    <summary><h2>Languages</h2></summary>
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="52" height="52" />&nbsp;
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="52" height="52" />&nbsp;
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="52" height="52" />&nbsp;
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="52" height="52" />&nbsp;
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="52" height="52" />&nbsp;
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="52" height="52" />
+  </details>
 
-<details>
-<summary><h2>Languages</h2></summary>
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="52" height="52" />&nbsp;
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="52" height="52" />&nbsp;
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="52" height="52" />&nbsp;
-<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="52" height="52" />&nbsp;
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="52" height="52" />&nbsp;
-<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="52" height="52" />
-</details>
+  <details open>
+    <summary><h2>Frontend</h2></summary>
+    <img src="./assets/react-icon.svg" alt="React js" width="55" height="55" />&nbsp;
+    <img src="./assets/nextjs-icon.svg" width="45" height="45" alt="Next js" />&nbsp;
+    <img src="./assets/css-icon.svg" width="45" height="45" alt="css" />&nbsp;
+    <img src="./assets/tailwindcss-icon.svg" width="45" height="45" alt="TailwindCSS" />&nbsp;
+    <img src="./assets/bootstrap-icon.svg" width="45" height="45" alt="Bootstrap" />&nbsp;
+    <img src="./assets/sass-icon.svg" title="sass" alt="Sass" width="45" height="45"/>&nbsp;
+    <img src="./assets/jquery-icon.svg" width="45" height="45" alt="jquery" />&nbsp;
+    <img src="./assets/reactnative-icon.svg" width="45" height="45" alt="React Native" />&nbsp;
+  </details>
 
- 
-<details open>
-  <summary><h2>Frontend</h2></summary>
-  <img src="./assets/react-icon.svg" alt="React js" width="55" height="55" />&nbsp;
-  <img src="./assets/nextjs-icon.svg" width="45" height="45" alt="Next js" />&nbsp;
-  <img src="./assets/css-icon.svg" width="45" height="45" alt="css" />&nbsp;
-  <img src="./assets/tailwindcss-icon.svg" width="45" height="45" alt="TailwindCSS" />&nbsp;
-  <img src="./assets/bootstrap-icon.svg" width="45" height="45" alt="Bootstrap" />&nbsp;
-  <img src="./assets/sass-icon.svg" title="sass" alt="Sass" width="45" height="45"/>&nbsp;
-  <img src="./assets/jquery-icon.svg" width="45" height="45" alt="jquery" />&nbsp;
-  <img src="./assets/reactnative-icon.svg" width="45" height="45" alt="React Native" />&nbsp;
-</details>
+  <details open>
+    <summary><h2>Backend</h2></summary>
+    <img src="./assets/nestjs-icon.svg" title="NestJS" alt="NestJS" width="45" height="45"/>&nbsp;
+    <img src="./assets/nodejs-icon.svg" width="50" height="50" alt="Node.js" />&nbsp;
+    <img src="./assets/expressJS-icon.svg" title="express" alt="express" width="45" height="45"/>&nbsp;
+  </details>
 
-<details open>
-  <summary><h2>Backend</h2></summary>
-  <img src="./assets/nestjs-icon.svg" title="NestJS" alt="NestJS" width="45" height="45"/>&nbsp;
-  <img src="./assets/nodejs-icon.svg" width="50" height="50" alt="Node.js" />&nbsp;
-  <img src="./assets/expressJS-icon.svg" title="express" alt="express" width="45" height="45"/>&nbsp;
-</details>
+  <details>
+    <summary><h2>Database</h2></summary>
+    <img src="./assets/mongodb-icon.svg" width="45" height="45" alt="MongoDB" />&nbsp;
+    <img src="./assets/mysql-icon.svg" width="55" height="55" alt="MySQL" />&nbsp;
+    <img src="./assets/postgresql-icon.svg" width="45" height="45" alt="PostgreSQL" />&nbsp;
+    <img src="./assets/supabase-icon.svg" width="45" height="45" alt="Supabase" />&nbsp;
+    <img src="./assets/appwrite-icon.svg" width="45" height="45" alt="Appwrite" />
+  </details>
 
-<details>
-<summary><h2>Database</h2></summary>
- <img src="" width="45" height="45" alt="MongoDB" />&nbsp;
- <img src="" alt="MySQL" width="55" height="55" />&nbsp;
- <img src="" width="45" height="45" alt="PostgreSQL" />&nbsp;
- <img src="" width="45" height="45" alt="Supabase" />
- <img src="" width="45" height="45" alt="Appwrite" />
-</details>
+  <details>
+    <summary><h2>Security</h2></summary> 
+    <img src="./assets/kalilinux-icon.svg" alt="Kali Linux" width="65" height="65"/>&nbsp;
+        <img src="./assets/burpsuite-icon.png" width="40" height="40" alt = "burp suite"/>&nbsp;
+  </details>
 
-<details>
-<summary><h2>Security</h2></summary> 
-<img src="" width="40" height="40"/>&nbsp;
-<img src="" alt="Kali Linux" width="65" height="65"/>&nbsp;
-</details>
-
-<details>
-<summary><h2>Tools</h2></summary>
-<img src="" alt="postman" width="40" height="40"/>&nbsp;
-<img src="" alt="git" width="40" height="40"/>&nbsp;
-<img src="" alt="figma" width="40" height="40"/>&nbsp;
-<img src="" alt="Blender" width="40" height="40"/>
-</details>
+  <details>
+    <summary><h2>Tools</h2></summary>
+    <img src="./assets/postman-icon.svg" alt="postman" width="40" height="40"/>&nbsp;
+    <img src="./assets/git-icon.svg" alt="git" width="40" height="40"/>&nbsp;
+    <img src="./assets/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;
+    <img src="./assets/blender-icon.svg" alt="Blender" width="40" height="40"/>
+  </details>
 </div>
- <h1 align="center">My Stats:</h1>
+
+<h1 align = "center">My Stats:</h1>
 
  [![committers.top badge](https://user-badge.committers.top/rwanda/Manzi-Elvis.svg)](https://user-badge.committers.top/rwanda/Manzi-Elvis)
 
- <table>
-<tr>
-<td width="30%" valign="top">
+<table>
+  <tr>
+    <td width="30%" align = "top">
+      <div align = "center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manzi-Elvis&theme=gotham&hide_border=false&include_all_commits=false" width="100%"/>
+      </div>
+    </td>
 
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Manzi-Elvis&theme=gotham&hide_border=false&include_all_commits=false" width="100%"/>
-</div>
+    <td width="40%" align="center">
+      <div align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=Manzi-Elvis&theme=gotham&hide_border=true" width="100%"/>
+      </div>
+    </td>
 
-</td>
-<td width="40%" valign="center">
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Manzi-Elvis&theme=gotham&hide_border=true" width="100%"/>
-</div>
-
-</td>
-<td width="35%" valign="center">
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/melvis?theme=dark&font=Noto%20Sans%20Batak" width="100%"/>
-</div>
-
-</td>
-</tr>
+    <td width="35%" align="center">
+      <div align="center">
+        <img src="https://leetcard.jacoblin.cool/melvis?theme=dark&font=Noto%20Sans%20Batak" width="100%"/>
+      </div>
+    </td>
+  </tr>
 </table>
 
 
 <div align = 'center'>
-  <img src="" width="30%"/>
+  <img src="./assets/litcode.webp" width="30%"/>
 </div>
