@@ -73,7 +73,7 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
   <details open>
     <summary><h2>Security</h2></summary> 
     <img src="./assets/kalilinux-icon.svg" alt="Kali Linux" width="60" height="60"/>&nbsp;
-        <img src="./assets/burpsuite-icon.png" width="45" height="45" alt = "burp suite"/>&nbsp;
+        <img src="./assets/burpsuite-icon.png" width="55" height="55" alt = "burp suite"/>
   </details>
 
   <details open>
