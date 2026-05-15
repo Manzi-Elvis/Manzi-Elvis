@@ -23,13 +23,14 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 > Every system I build is designed with security at the core — not as an afterthought.
 > I actively guard against vulnerabilities like SQL injection, XSS, broken authentication, misconfigurations, insecure APIs, and flawed permission models.
 </details>
+
+<!--
 <details>
 <summary><b>Backend engineering</b></summary>
 
 > I am passionate about building secure, scalable, and high-performance systems. I focus on designing efficient APIs,
 > optimizing databases, and creating robust architectures that power seamless user experiences. Always learning, always building.
 </details>
-
 
 <h1 align="center">Knowledge matrix</h1>
   <details open>
@@ -83,7 +84,7 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
     <img src="./assets/figma-icon.svg" alt="figma" width="40" height="40"/>&nbsp;
     <img src="./assets/blender-icon.svg" alt="Blender" width="40" height="40"/>
   </details>
-
+-->
 <h1 align = "center">My Stats:</h1>
 
  [![committers.top badge](https://user-badge.committers.top/rwanda/Manzi-Elvis.svg)](https://user-badge.committers.top/rwanda/Manzi-Elvis)
