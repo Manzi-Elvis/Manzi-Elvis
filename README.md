@@ -98,10 +98,11 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
    <td width="35%" align = "center">
       <img src="https://github-readme-streak-stats.herokuapp.com?user=Manzi-Elvis&theme=gotham&hide_border=true" width="100%"/>
     </td>
-
+<!--
    <td width="35%" align="center">
         <img src="https://leetcard.jacoblin.cool/melvis?theme=dark&font=Noto%20Sans%20Batak" width="100%"/>
     </td>
+    -->
   </tr>
 </table>
 
