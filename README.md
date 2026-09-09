@@ -42,6 +42,10 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 - [MELVIS AI](https://github.com/Manzi-Elvis/MELVIS-AI)
 - [EpicScreen](https://github.com/Manzi-Elvis/Epic-Screen)
 
+<p align="center">
+  <a href="https://mrelvis.is-a.dev/"><b>→ Explore all projects</b></a>
+</p>
+
 <!--
 <h1 align="center">Knowledge matrix</h1>
   <details open>
