@@ -106,4 +106,27 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
   </tr>
 </table>
 
+
+<h1 align="center">Let's Connect</h1>
+
+<p align="center">
+  Have an interesting engineering problem, ambitious project,
+  open-source idea, or opportunity?
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mrelvis">
+    <img src="./assets/linkedin.png" alt="LinkedIn" width="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/_MRElvis_">
+    <img src="./assets/x.png" alt="X" width="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://dev.to/mr_elvis">
+    <img src="./assets/dev-blog.png" alt="Blog" width="45"/>
+  </a>
+</p>
+
+
 <div align="center" ><img src="./assets/litcode.webp" width="30%"/></div>
