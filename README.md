@@ -31,7 +31,18 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 > I am passionate about building secure, scalable, and high-performance systems. I focus on designing efficient APIs,
 > optimizing databases, and creating robust architectures that power seamless user experiences. Always learning, always building.
 </details>
+-->
+<h1 align="center">Featured Projects</h1>
 
+<p align="center">
+  A selection of systems, products, experiments, and engineering projects I've built.
+</p>
+
+- [SignalHQ](https://github.com/Manzi-Elvis/SignalHQ)
+- [MELVIS AI](https://github.com/Manzi-Elvis/MELVIS-AI)
+- [EpicScreen](https://github.com/Manzi-Elvis/Epic-Screen)
+
+<!--
 <h1 align="center">Knowledge matrix</h1>
   <details open>
     <summary><h2>Languages</h2></summary>
