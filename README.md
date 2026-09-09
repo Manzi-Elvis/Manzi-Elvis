@@ -46,6 +46,45 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
   <a href="https://mrelvis.is-a.dev/"><b>→ Explore all projects</b></a>
 </p>
 
+<h1 align="center">Engineering Principles</h1>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>01</h3>
+      <b>Design for Failure</b>
+      <p>Systems should expect things to fail and recover gracefully.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>02</h3>
+      <b>Security by Default</b>
+      <p>Security belongs in the design, not at the end of development.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>03</h3>
+      <b>Keep Complexity Intentional</b>
+      <p>Complexity should solve a real problem rather than create one.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>04</h3>
+      <b>Measure Before Optimizing</b>
+      <p>Performance decisions should be driven by evidence.</p>
+    </td>
+    <td align="center">
+      <h3>05</h3>
+      <b>Automate Repetition</b>
+      <p>Computers should handle repetitive work whenever possible.</p>
+    </td>
+    <td align="center">
+      <h3>06</h3>
+      <b>Build to Evolve</b>
+      <p>Good software should be able to change without collapsing.</p>
+    </td>
+  </tr>
+</table>
+
 <!--
 <h1 align="center">Knowledge matrix</h1>
   <details open>
