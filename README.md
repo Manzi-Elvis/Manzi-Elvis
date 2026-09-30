@@ -142,6 +142,8 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 <h1 align = "center">My Stats:</h1>
 
  [![committers.top badge](https://user-badge.committers.top/rwanda/Manzi-Elvis.svg)](https://user-badge.committers.top/rwanda/Manzi-Elvis)
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Manzi-Elvis&label=Profile%20views&color=0e75b6&style=flat" alt="Elvis Manzi" /> </p>
+
 
 <table>
   <tr>
