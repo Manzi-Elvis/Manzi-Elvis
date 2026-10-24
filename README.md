@@ -185,7 +185,7 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 </p> -->
 
 
-<p>
+<p align="center">
   <a href="https://mrelvis.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/mrelvis"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://stackoverflow.com/users/31237714/elvis-manzi-rurangirwa"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
