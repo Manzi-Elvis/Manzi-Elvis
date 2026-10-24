@@ -186,12 +186,12 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 
 
 <p align="center">
-  <a href="https://mrelvis.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/mrelvis"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://stackoverflow.com/users/31237714/elvis-manzi-rurangirwa"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
-  <a href="https://dev.to/mr_elvis"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" /></a>
-  <a href="https://x.com/_MRElvis_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
-  <a href = "https://discord.com/users/1227526561381748866"><img src = "https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://mrelvis.is-a.dev"><img src="/assets/portfolio.svg" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mrelvis"><img src="/assets/linkedin2.svg" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/31237714/elvis-manzi-rurangirwa"><img src="/assets/stackoverflow.svg" alt="Stack Overflow" /></a>
+  <a href="https://dev.to/mr_elvis"><img src="/assets/dev.to.svg" alt="dev.to" /></a>
+  <a href="https://x.com/_MRElvis_"><img src="/assets/xTwitter.svg" alt="X" /></a>
+  <a href = "https://discord.com/users/1227526561381748866"><img src = "/assets/discord.svg"></a>
 </p>
 
 <div align="center" ><img src="./assets/litcode.webp" width="30%"/></div>
