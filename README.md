@@ -31,7 +31,61 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 > I am passionate about building secure, scalable, and high-performance systems. I focus on designing efficient APIs,
 > optimizing databases, and creating robust architectures that power seamless user experiences. Always learning, always building.
 </details>
+-->
+<h1 align="center">Featured Projects</h1>
 
+<p align="center">
+  A selection of systems, products, experiments, and engineering projects I've built.
+</p>
+
+- [SignalHQ](https://github.com/Manzi-Elvis/SignalHQ)
+- [MELVIS AI](https://github.com/Manzi-Elvis/MELVIS-AI)
+- [EpicScreen](https://github.com/Manzi-Elvis/Epic-Screen)
+
+<p align="center">
+  <a href="https://mrelvis.is-a.dev/"><b>→ Explore all projects</b></a>
+</p>
+
+<h1 align="center">Engineering Principles</h1>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>01</h3>
+      <b>Design for Failure</b>
+      <p>Systems should expect things to fail and recover gracefully.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>02</h3>
+      <b>Security by Default</b>
+      <p>Security belongs in the design, not at the end of development.</p>
+    </td>
+    <td align="center" width="33%">
+      <h3>03</h3>
+      <b>Keep Complexity Intentional</b>
+      <p>Complexity should solve a real problem rather than create one.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <h3>04</h3>
+      <b>Measure Before Optimizing</b>
+      <p>Performance decisions should be driven by evidence.</p>
+    </td>
+    <td align="center">
+      <h3>05</h3>
+      <b>Automate Repetition</b>
+      <p>Computers should handle repetitive work whenever possible.</p>
+    </td>
+    <td align="center">
+      <h3>06</h3>
+      <b>Build to Evolve</b>
+      <p>Good software should be able to change without collapsing.</p>
+    </td>
+  </tr>
+</table>
+
+<!--
 <h1 align="center">Knowledge matrix</h1>
   <details open>
     <summary><h2>Languages</h2></summary>
@@ -88,6 +142,8 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 <h1 align = "center">My Stats:</h1>
 
  [![committers.top badge](https://user-badge.committers.top/rwanda/Manzi-Elvis.svg)](https://user-badge.committers.top/rwanda/Manzi-Elvis)
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Manzi-Elvis&label=Profile%20views&color=0e75b6&style=flat" alt="Elvis Manzi" /> </p>
+
 
 <table>
   <tr>
@@ -105,5 +161,28 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
     -->
   </tr>
 </table>
+
+
+<h1 align="center">Let's Connect</h1>
+
+<p align="center">
+  Have an interesting engineering problem, ambitious project,
+  open-source idea, or opportunity?
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mrelvis">
+    <img src="./assets/linkedin.png" alt="LinkedIn" width="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/_MRElvis_">
+    <img src="./assets/x.png" alt="X" width="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://dev.to/mr_elvis">
+    <img src="./assets/dev-blog.png" alt="Blog" width="45"/>
+  </a>
+</p>
+
 
 <div align="center" ><img src="./assets/litcode.webp" width="30%"/></div>
