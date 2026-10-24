@@ -191,6 +191,7 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
   <a href="https://stackoverflow.com/users/31237714/elvis-manzi-rurangirwa"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
   <a href="https://dev.to/mr_elvis"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" /></a>
   <a href="https://x.com/_MRElvis_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href = "https://discord.com/users/1227526561381748866"><img src = "https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
 
 <div align="center" ><img src="./assets/litcode.webp" width="30%"/></div>
