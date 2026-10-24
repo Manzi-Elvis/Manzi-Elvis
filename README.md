@@ -170,7 +170,7 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
   open-source idea, or opportunity?
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/mrelvis">
     <img src="./assets/linkedin.png" alt="LinkedIn" width="45"/>
   </a>
@@ -182,7 +182,15 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
   <a href="https://dev.to/mr_elvis">
     <img src="./assets/dev-blog.png" alt="Blog" width="45"/>
   </a>
-</p>
+</p> -->
 
+
+<p>
+  <a href="https://mrelvis.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/mrelvis"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/31237714/elvis-manzi-rurangirwa"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+  <a href="https://dev.to/mr_elvis"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="dev.to" /></a>
+  <a href="https://x.com/_MRElvis_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+</p>
 
 <div align="center" ><img src="./assets/litcode.webp" width="30%"/></div>
