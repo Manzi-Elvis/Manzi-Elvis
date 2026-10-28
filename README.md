@@ -143,7 +143,7 @@ I thrive in environments where I can solve problems, learn fast, and collaborate
 
  [![committers.top badge](https://user-badge.committers.top/rwanda/Manzi-Elvis.svg)](https://user-badge.committers.top/rwanda/Manzi-Elvis)
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Manzi-Elvis&label=Profile%20views&color=0e75b6&style=flat" alt="Elvis Manzi" /> </p>
- [![DevImpact Score](https://img.shields.io/badge/DevImpact_Score-34.0-blue?style=flat&logo=github)](https://devimpact.osamamabkhot.dev/user/Manzi-Elvis)
+<a href="https://devimpact.osamamabkhot.dev/user/Manzi-Elvis"><img src="https://img.shields.io/badge/DevImpact_Score-34.0-blue?style=flat&logo=github" alt="DevImpact Score" /></a>
 
 
 <table>
